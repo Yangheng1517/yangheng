@@ -1,9 +1,9 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.TRole;
-import com.example.yangheng.model.db.TRoleExample.Criteria;
-import com.example.yangheng.model.db.TRoleExample.Criterion;
-import com.example.yangheng.model.db.TRoleExample;
+import com.example.yangheng.model.TRole;
+import com.example.yangheng.model.TRoleExample.Criteria;
+import com.example.yangheng.model.TRoleExample.Criterion;
+import com.example.yangheng.model.TRoleExample;
 import java.util.List;
 import java.util.Map;
 import org.apache.ibatis.jdbc.SQL;

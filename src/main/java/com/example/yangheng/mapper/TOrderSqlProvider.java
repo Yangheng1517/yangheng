@@ -1,9 +1,9 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.TOrder;
-import com.example.yangheng.model.db.TOrderExample.Criteria;
-import com.example.yangheng.model.db.TOrderExample.Criterion;
-import com.example.yangheng.model.db.TOrderExample;
+import com.example.yangheng.model.TOrder;
+import com.example.yangheng.model.TOrderExample.Criteria;
+import com.example.yangheng.model.TOrderExample.Criterion;
+import com.example.yangheng.model.TOrderExample;
 import java.util.List;
 import java.util.Map;
 import org.apache.ibatis.jdbc.SQL;

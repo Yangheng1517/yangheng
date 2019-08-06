@@ -1,9 +1,9 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.TMenu;
-import com.example.yangheng.model.db.TMenuExample.Criteria;
-import com.example.yangheng.model.db.TMenuExample.Criterion;
-import com.example.yangheng.model.db.TMenuExample;
+import com.example.yangheng.model.TMenu;
+import com.example.yangheng.model.TMenuExample.Criteria;
+import com.example.yangheng.model.TMenuExample.Criterion;
+import com.example.yangheng.model.TMenuExample;
 import java.util.List;
 import java.util.Map;
 import org.apache.ibatis.jdbc.SQL;

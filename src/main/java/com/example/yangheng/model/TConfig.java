@@ -1,4 +1,4 @@
-package com.example.yangheng.model.db;
+package com.example.yangheng.model;
 
 import lombok.Data;
 

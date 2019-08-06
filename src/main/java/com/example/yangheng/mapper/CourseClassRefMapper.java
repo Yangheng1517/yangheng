@@ -1,7 +1,7 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.CourseClassRefExample;
-import com.example.yangheng.model.db.CourseClassRefKey;
+import com.example.yangheng.model.CourseClassRefExample;
+import com.example.yangheng.model.CourseClassRefKey;
 import java.util.List;
 import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.DeleteProvider;

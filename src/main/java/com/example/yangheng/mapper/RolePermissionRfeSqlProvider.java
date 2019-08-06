@@ -1,9 +1,9 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.RolePermissionRfeExample.Criteria;
-import com.example.yangheng.model.db.RolePermissionRfeExample.Criterion;
-import com.example.yangheng.model.db.RolePermissionRfeExample;
-import com.example.yangheng.model.db.RolePermissionRfeKey;
+import com.example.yangheng.model.RolePermissionRfeExample.Criteria;
+import com.example.yangheng.model.RolePermissionRfeExample.Criterion;
+import com.example.yangheng.model.RolePermissionRfeExample;
+import com.example.yangheng.model.RolePermissionRfeKey;
 import java.util.List;
 import java.util.Map;
 import org.apache.ibatis.jdbc.SQL;

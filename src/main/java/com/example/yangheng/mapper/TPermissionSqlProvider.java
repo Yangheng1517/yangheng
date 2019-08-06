@@ -1,9 +1,9 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.TPermission;
-import com.example.yangheng.model.db.TPermissionExample.Criteria;
-import com.example.yangheng.model.db.TPermissionExample.Criterion;
-import com.example.yangheng.model.db.TPermissionExample;
+import com.example.yangheng.model.TPermission;
+import com.example.yangheng.model.TPermissionExample.Criteria;
+import com.example.yangheng.model.TPermissionExample.Criterion;
+import com.example.yangheng.model.TPermissionExample;
 import java.util.List;
 import java.util.Map;
 import org.apache.ibatis.jdbc.SQL;

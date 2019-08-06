@@ -1,9 +1,9 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.TUser;
-import com.example.yangheng.model.db.TUserExample.Criteria;
-import com.example.yangheng.model.db.TUserExample.Criterion;
-import com.example.yangheng.model.db.TUserExample;
+import com.example.yangheng.model.TUser;
+import com.example.yangheng.model.TUserExample.Criteria;
+import com.example.yangheng.model.TUserExample.Criterion;
+import com.example.yangheng.model.TUserExample;
 import java.util.List;
 import java.util.Map;
 import org.apache.ibatis.jdbc.SQL;

@@ -1,9 +1,9 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.UserRoleRefExample.Criteria;
-import com.example.yangheng.model.db.UserRoleRefExample.Criterion;
-import com.example.yangheng.model.db.UserRoleRefExample;
-import com.example.yangheng.model.db.UserRoleRefKey;
+import com.example.yangheng.model.UserRoleRefExample.Criteria;
+import com.example.yangheng.model.UserRoleRefExample.Criterion;
+import com.example.yangheng.model.UserRoleRefExample;
+import com.example.yangheng.model.UserRoleRefKey;
 import java.util.List;
 import java.util.Map;
 import org.apache.ibatis.jdbc.SQL;

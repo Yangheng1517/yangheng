@@ -1,9 +1,9 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.UserRelationRef;
-import com.example.yangheng.model.db.UserRelationRefExample.Criteria;
-import com.example.yangheng.model.db.UserRelationRefExample.Criterion;
-import com.example.yangheng.model.db.UserRelationRefExample;
+import com.example.yangheng.model.UserRelationRef;
+import com.example.yangheng.model.UserRelationRefExample.Criteria;
+import com.example.yangheng.model.UserRelationRefExample.Criterion;
+import com.example.yangheng.model.UserRelationRefExample;
 import java.util.List;
 import java.util.Map;
 import org.apache.ibatis.jdbc.SQL;

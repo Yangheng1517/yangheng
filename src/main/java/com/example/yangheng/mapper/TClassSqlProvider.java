@@ -1,9 +1,9 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.TClass;
-import com.example.yangheng.model.db.TClassExample.Criteria;
-import com.example.yangheng.model.db.TClassExample.Criterion;
-import com.example.yangheng.model.db.TClassExample;
+import com.example.yangheng.model.TClass;
+import com.example.yangheng.model.TClassExample.Criteria;
+import com.example.yangheng.model.TClassExample.Criterion;
+import com.example.yangheng.model.TClassExample;
 import java.util.List;
 import java.util.Map;
 import org.apache.ibatis.jdbc.SQL;

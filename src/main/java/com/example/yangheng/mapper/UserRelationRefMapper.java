@@ -1,8 +1,8 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.UserRelationRef;
-import com.example.yangheng.model.db.UserRelationRefExample;
-import com.example.yangheng.model.db.UserRelationRefKey;
+import com.example.yangheng.model.UserRelationRef;
+import com.example.yangheng.model.UserRelationRefExample;
+import com.example.yangheng.model.UserRelationRefKey;
 import java.util.List;
 import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.DeleteProvider;

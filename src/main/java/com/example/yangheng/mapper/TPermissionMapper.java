@@ -1,7 +1,7 @@
 package com.example.yangheng.mapper;
 
-import com.example.yangheng.model.db.TPermission;
-import com.example.yangheng.model.db.TPermissionExample;
+import com.example.yangheng.model.TPermission;
+import com.example.yangheng.model.TPermissionExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Delete;
 import org.apache.ibatis.annotations.DeleteProvider;
